@@ -28,6 +28,10 @@
         "path": "./snippets.json"
       },
       {
+        "language": "django-html",
+        "path": "./snippets.json"
+      },      
+      {
         "language": "ejs",
         "path": "./snippets.json"
       },
